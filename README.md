@@ -1,12 +1,44 @@
-# React + Vite
+# 🎬 Movie Ticket Booking - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Movie Ticket Booking Platform (Frontend)** built with **React.js** and **Tailwind CSS**.  
+Currently, this project focuses on the **frontend interface** where users can browse movies, check show timings, and select seats.  
+The **backend (Node.js + Express + MongoDB)** will be integrated in the future for complete functionality.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔮 Future Enhancements (Backend Development In Progress)
+- Backend APIs with Node.js + Express.js (in progress)  
+- MongoDB database for movies, users, and bookings  
+- User Authentication (Login / Signup)  
+- Secure Payment Gateway  
+- QR Code Ticket Generation  
+- Booking History Management  
+ 
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Tech Stack
+
+| Layer        | Technologies |
+|--------------|--------------|
+| **Frontend** | React.js, Tailwind CSS, Redux Toolkit, Vite |
+| **Future**   | Node.js, Express.js, MongoDB (backend integration planned) |
+| **Other**    | Axios (for API calls – future integration) |
+
+---
+
+🧪 Screenshots
+![Homepage](./screenshots/homepage.png)
+
+![WatchTrailer](./screenshots/WatchTrailer.png)
+
+![SeatStructure](./screenshots/SeatStructure.png)
+
+![Booking](./screenshots/Booking.png)
+
+## 🧑‍💻 Author
+------------
+
+**Kunal Patil**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kunal-patil-504a752a0/)  
+🐙 [GitHub](https://github.com/kunalpatil624)
