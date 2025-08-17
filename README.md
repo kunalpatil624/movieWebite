@@ -28,13 +28,13 @@ The **backend (Node.js + Express + MongoDB)** will be integrated in the future f
 ---
 
 🧪 Screenshots
-![Homepage](/screenshots/homepage.png)
+## 🧪 Screenshots
 
-![WatchTrailer](/screenshots/WatchTrailer.png)
+![Homepage](./screenshots/homepage.png)  
+![Watch Trailer](./screenshots/WatchTrailer.png)  
+![Seat Structure](./screenshots/SeatStructure.png)  
+![Booking](./screenshots/Booking.png)  
 
-![SeatStructure](/screenshots/SeatStructure.png)
-
-![Booking](/screenshots/Booking.png)
 
 ## 🧑‍💻 Author
 ------------
